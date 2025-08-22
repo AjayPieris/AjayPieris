@@ -1,155 +1,201 @@
 <!--
-Profile README for: AjayPieris
-Style: Executive / Product-Focused / Design-Engineering Hybrid
-Tip: Keep this lean. Update metrics quarterly. Remove comments once finalized.
+Profile README for @AjayPieris
+Style: Clean professional + tasteful personality + popular github-profile aesthetics.
+Remove any sections you don't want before committing.
 -->
 
-<!-- HERO -->
-<div align="center">
-  <h1>Ajay Pieris</h1>
-  <h3 style="margin-top:-10px;">Software Engineer · Full‑Stack Product Builder · UI/UX Designer · Data Insight Crafter</h3>
-  <p>
-    Bridging thoughtful interface design, robust engineering, and data‑driven iteration to build purposeful digital experiences.
-  </p>
-  
-  <!-- Optional signature tagline -->
-  <strong><em>Design with clarity · Build with intent · Refine with data</em></strong>
+<!-- Typing SVG (OPTIONAL) -->
+<p align="center">
+  <a href="https://github.com/AjayPieris">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ajay+%F0%9F%91%8B;Software+Engineer+%7C+Fullstack+Developer;UI%2FUX+Designer+%7C+Data+Analyst;Design+%E2%9C%A8+Code+%E2%9A%99%EF%B8%8F+Data+%F0%9F%93%8A+%3D+Impact" alt="Typing Intro"/>
+  </a>
+</p>
 
-  <br/><br/>
-  
-  <!-- Subtle social row -->
-  <a href="https://www.linkedin.com/in/ajaypieris/">LinkedIn</a> •
-  <a href="https://github.com/AjayPieris">GitHub</a>
-  <!-- • <a href="https://your-portfolio-url">Portfolio</a> -->
-  <!-- • <a href="mailto:your@email">Email</a> -->
-  
-  <br/><br/>
-  
-  <!-- Clean stats (optional). Uncomment if desired. -->
-  <!--
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&theme=transparent&hide_border=true" />
+<!-- Headline -->
+<h2 align="center">Building user‑centered software that feels as good as it works.</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajaypieris/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20Pieris-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/AjayPieris"><img alt="Followers" src="https://img.shields.io/github/followers/AjayPieris?style=flat&logo=github"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=AjayPieris&style=flat&color=3B82F6"/>
+  <!-- OPTIONAL HIRE ME BADGE
+  <a href="#"><img alt="Available for collaboration" src="https://img.shields.io/badge/Collaborate-Open-22c55e?style=flat&logo=Handshake"/></a>
   -->
-</div>
+</p>
 
 ---
 
-### Profile Snapshot
-Focused on crafting products that feel intentional—balancing system architecture, usability, and measurable outcome. I approach each build like a continuous feedback loop: empathize → design → implement → observe → refine.
+### 👤 About Me
+I engineer products at the intersection of:
+- Robust fullstack architecture (React · Node.js · APIs · DB)
+- Thoughtful UI/UX design (Figma systems, interaction flow)
+- Data storytelling & insight loops (Python analysis)
 
-- Hybrid mindset: engineering depth + product/UX sensibility
-- Passion areas: environmental platforms, data storytelling, component systems
-- Operating style: clarity, iteration discipline, design systems thinking
+I care about clarity, maintainability, accessibility, and impact.  
+Motto: Build with empathy. Design with clarity. Improve with data.
 
 ---
 
-### Signature Focus Areas
-| Domain | What I Bring |
+### 🛠 Tech Stack Snapshot
+<p align="center">
+  <!-- Devicons / Logos -->
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mysql,mongodb,python,figma,git" alt="Skill Icons" />
+</p>
+
+| Domain | Tools & Focus |
 | ------ | ------------- |
-| Product Engineering | Fullstack delivery (React • Node.js • Express • MySQL/MongoDB) with clean modular architecture |
-| UI/UX Design | Figma-driven flows, interaction patterns, design systems & accessible interfaces |
-| Data Insight | Python exploration, visualization narratives, lightweight metrics to steer iteration |
-| System Thinking | Component libraries, scalable API patterns, maintainability-first structure |
-| Craft Quality | Detail-oriented UI polish + pragmatic performance & DX improvements |
+| Frontend | React · Component Architecture · Responsive UI |
+| Backend | Node.js · Express · REST API Design |
+| Databases | MySQL · MongoDB |
+| Languages | Java · JavaScript (ES6+) · Python (Analysis/Visualization) |
+| Design | Figma (Wireframes · Prototypes · Design Systems) |
+| Data | Exploratory Analysis · Visual Narratives · Insight Loops |
+| Practices | Accessibility · Agile · Clean Git Hygiene |
 
----
+<details>
+<summary><strong>Badges (expand)</strong></summary>
 
-### Selected Work & Themes
-#### Pure Nation – Clean Sri Lanka (Environmental Platform)
-Platform concept to mobilize awareness & local sustainability action.  
-Focus: human-centered architecture, trust & participation flows, future-ready for geo-mapped environmental insights.
-
-#### Data Analysis Micro‑Lab
-A collection of notebooks/dashboards turning raw data into concise stories (patterns, anomalies, directional signals).  
-Aim: help stakeholders decide faster with context and clarity.
-
-#### Fullstack & UI/UX Prototypes
-Iterative experiments: reusable design tokens feeding React components, integrated configuration layers, and friction‑reduced onboarding experiences.
-
-> When repos go public, pin them + add deep links below for instant scanning.
-
----
-
-### Design → Engineering Flow (Operating Loop)
-```
-Problem Signal → Clarify & Frame → Information Architecture → 
-Wireframe / Prototype (Figma) → Implement (Component + API + Data Layer) → 
-Instrument & Observe (Light Metrics) → Refine UX & Performance
-```
-
----
-
-### Core Stack
-Java · JavaScript (ES6+) · React · Node.js · Express · MySQL · MongoDB · Python (Analysis) · Figma · Git
-
-<!-- Optional minimal badges (uncomment if you want a visual row)
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=fff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=222" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-F0931C?style=flat&logo=openjdk&logoColor=222" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54" />
 </p>
+</details>
+
+---
+
+### 🌱 Featured Projects
+
+<!-- Replace placeholders with repository links when ready -->
+| Project | Summary | Focus Areas | Status |
+| ------- | ------- | ----------- | ------ |
+| Pure Nation – Clean Sri Lanka | Environmental action & awareness platform | UX Architecture · Community modules · Scalable backend | In progress |
+| Data Analysis Mini‑Projects | Exploratory notebooks & dashboards | Visualization · Pattern detection · Insight framing | Curating |
+| Fullstack UI/UX Prototypes | Concept apps showcasing design→build parity | Design Systems · React Components · API Integration | Ongoing |
+
+<details>
+<summary><strong>Planned Enhancements (click)</strong></summary>
+
+- Pure Nation: Sustainability metrics dashboard, interactive map overlays, contribution badges  
+- Data Lab: Gallery mode (before/after insights), lightweight storytelling templates  
+- UI Kit: Token-based design system mirrored in React + Figma component parity  
+</details>
+
+---
+
+### 🎨 Design → Engineering Workflow
+```
+Problem Discovery → Clarify (Personas / Flows)
+         ↓
+Information Architecture
+         ↓
+Wireframes → Figma Prototype (Design System)
+         ↓
+Implementation (React + API + DB)
+         ↓
+Measure (Usage & Data Insights)
+         ↓
+Iterate (UX Refinement + Performance + Accessibility)
+```
+
+---
+
+### 📊 Data Mindset
+I leverage Python & lightweight dashboards to:
+- Highlight behavior patterns
+- Inform feature prioritization
+- Validate UX hypotheses
+- Drive iterative refinement
+
+> Philosophy: Ship → Observe → Learn → Refine.
+
+---
+
+### 🚀 Currently Exploring
+- Scalable system design & modular monorepo patterns
+- Advanced data visualization storytelling
+- Accessibility-first interaction design
+- Performance profiling (Core Web Vitals & backend efficiency)
+
+---
+
+### 🧪 Idea Sandbox (Future Repos)
+- pure-nation-map-layer
+- ui-kit (design tokens + theming + docs site)
+- data-lab (curated narratives)
+- playground (micro-interactions, accessibility experiments)
+
+---
+
+### ✅ Personal Roadmap
+- [ ] Publish Pure Nation with architecture diagram
+- [ ] Consolidate data mini-projects under /data-lab
+- [ ] Create a hero banner (SVG gradient + role keywords)
+- [ ] Launch design system repo w/ Figma ↔ React sync
+- [ ] Write article: “Marrying UX Design & Data Feedback Loops”
+- [ ] Add automated CI for lint + formatting across projects
+
+---
+
+### 📈 GitHub Metrics (OPTIONAL)
+Uncomment what you like—external services may have rate limits.
+
+```md
+<!-- Stats Card -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&hide_border=true&rank_icon=percentile) -->
+
+<!-- Top Languages -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&hide_border=true) -->
+
+<!-- Streak -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AjayPieris&hide_border=true) -->
+
+<!-- Trophies -->
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=AjayPieris&theme=flat&margin-w=8&margin-h=8&no-bg=true&no-frame=true) -->
+```
+
+<!-- Contribution Snake (OPTIONAL) -->
+<!--
+![Snake animation](https://raw.githubusercontent.com/AjayPieris/AjayPieris/output/github-contribution-grid-snake.svg)
+Generate via an actions workflow if desired.
 -->
 
 ---
 
-### Product & Data Philosophy
-I believe every shipped feature is a hypothesis. Instrument lightly, learn quickly, and refine what matters. Good UX is the emergent result of:
-1. Honest problem framing  
-2. Consistent interface language  
-3. Data-informed iteration (not noise-chasing)  
-4. Performance + accessibility discipline  
+### 🤝 Collaboration
+I enjoy working on:
+- Impactful civic / environmental platforms
+- Intuitive fullstack products with strong UX
+- Data visualization & storytelling
+- Developer tooling with design alignment
+
+Open to meaningful collaboration—feel free to reach out.
 
 ---
 
-### Current Exploration
-- Component design systems (token-driven cohesion)
-- Scalable API patterns & observability
-- Accessible interaction models & inclusive flows
-- Data visualization frameworks & narrative best practices
+### 📬 Connect
+<p>
+  <a href="https://www.linkedin.com/in/ajaypieris/">LinkedIn</a> •
+  <a href="https://github.com/AjayPieris">GitHub</a>
+  <!-- Add: Portfolio · Email · Blog -->
+</p>
 
 ---
 
-### Collaboration & Interests
-I’m open to impactful collaborations in:
-- Environmental & civic tech
-- Data storytelling platforms
-- Developer experience & design tooling
-- Human-centered product accelerators
-
-> If your problem space lives at the intersection of design clarity and engineering rigor, let’s connect.
+### ✨ Signature
+> Build with empathy. Design with clarity. Improve with data.
 
 ---
 
-### Roadmap (Personal Evolution)
-- Public launch: Pure Nation foundation repo with contribution guide
-- Consolidate data mini-projects into a curated /data-lab hub
-- Build a design token → React component sync pipeline
-- Author a short piece on “Signal-Driven UX Iteration”
-- Introduce a minimal portfolio microsite (case studies + system thinking notes)
-
----
-
-### Contact & Presence
-- LinkedIn: https://www.linkedin.com/in/ajaypieris/
-- GitHub: https://github.com/AjayPieris
-<!-- - Portfolio: https://your-portfolio-url -->
-<!-- - Email: your@email -->
-<!-- - Speaking / Panels: Add when available -->
-
----
-
-### Motto
-Build with empathy. Design with clarity. Refine with data.
-
-<!--
-Maintenance Guidelines:
-- Update “Current Exploration” & “Roadmap” every 2–3 months.
-- Keep hero section stable for brand consistency.
-- Add real metrics once you have credible numbers (avoid vanity inflation).
-- Consider a minimalist portfolio repo showcasing 2–3 case studies (problem → approach → outcome).
+<!-- Maintenance Tips:
+- Keep “Currently Exploring” fresh (quarterly).
+- Pin top repos once they’re public.
+- Consider adding a /now section or simple JSON powering a widget.
+- Remove any external widgets if they slow load.
 -->
