@@ -89,60 +89,20 @@ Motto: Build with empathy. Design with clarity. Improve with data.
 
 ---
 
-### 🎨 Design → Engineering Workflow
-
-> Principle: Solve the right problem. Ship the smallest valuable slice. Measure honestly. Refine with empathy.
-
-```
-1. Discover
-   - Problem signal (users, analytics, support)
-   - Impact hypothesis / baseline metrics
-
-2. Define & Align
-   - Personas / JTBD
-   - Success metrics (leading + lagging)
-   - Scope guardrails (what NOT to build)
-
-3. Information Architecture
-   - Domain & entity modeling
-   - Navigation & state matrix
-   - Edge case surfacing
-
-4. Experience & Interaction Design
-   - Task flows → wireframes → interaction notes
-   - Accessibility early (focus order, semantics, contrast)
-
-5. System & Tokens
-   - Design tokens (color, spacing, type scale, motion)
-   - Component contracts (props / states / variants)
-
-6. Implementation
-   - Component-driven React build
-   - API contracts (OpenAPI / schema validation)
-   - Backend endpoints + persistence (Node.js · MySQL/MongoDB)
-   - CI: lint, test, formatting
-
-7. Instrumentation
-   - Event / funnel schema
-   - Performance probes (web vitals, API p95)
-   - Error & log strategy
-
-8. Validation
-   - Usability tasks (time-on-task, success %, friction notes)
-   - Early metric deltas vs baseline
-   - Accessibility audit pass
-
-9. Iteration & Hardening
-   - Refactor for clarity & maintainability
-   - Performance tuning & a11y improvements
-   - Remove dead code paths
-
-10. Knowledge Share
-    - Retro (“What we built / What we learned / Next hypothesis”)
-    - Update docs & backlog
-```
-
-Core Loop: Assumption → Slice → Evidence → Decision → Refine
+### 🎨 Workflow
+<p align="center">
+  <code>🧭 Discover</code>
+  <code>🎯 Define</code>
+  <code>🗺️ IA</code>
+  <code>✏️ UX</code>
+  <code>🎨 Tokens</code>
+  <code>⚙️ Build</code>
+  <code>📊 Instrument</code>
+  <code>✅ Validate</code>
+  <code>🔁 Iterate</code>
+  <code>🗂 Share</code>
+</p>
+<p align="center"><sub>Loop: Assumption → Slice → Evidence → Refine</sub></p>
 
 ---
 
