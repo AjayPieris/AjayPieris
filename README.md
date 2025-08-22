@@ -103,22 +103,6 @@ I enjoy using Python to:
 
 ---
 
-### 📈 Activity & Stats (Optional)
-Uncomment if you want these visuals (they rely on external services):
-
-```md
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&hide_border=true&rank_icon=percentile)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&hide_border=true)
-
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=AjayPieris&hide_border=true)
-```
-
----
-
 ### 🚀 Currently Exploring
 - System design patterns for scalability
 - Advanced data visualization
