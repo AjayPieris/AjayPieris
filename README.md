@@ -133,41 +133,6 @@ I leverage Python & lightweight dashboards to:
 
 ---
 
-### ✅ Personal Roadmap
-- [ ] Publish Pure Nation with architecture diagram
-- [ ] Consolidate data mini-projects under /data-lab
-- [ ] Create a hero banner (SVG gradient + role keywords)
-- [ ] Launch design system repo w/ Figma ↔ React sync
-- [ ] Write article: “Marrying UX Design & Data Feedback Loops”
-- [ ] Add automated CI for lint + formatting across projects
-
----
-
-### 📈 GitHub Metrics (OPTIONAL)
-Uncomment what you like—external services may have rate limits.
-
-```md
-<!-- Stats Card -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&hide_border=true&rank_icon=percentile) -->
-
-<!-- Top Languages -->
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&hide_border=true) -->
-
-<!-- Streak -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AjayPieris&hide_border=true) -->
-
-<!-- Trophies -->
-<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=AjayPieris&theme=flat&margin-w=8&margin-h=8&no-bg=true&no-frame=true) -->
-```
-
-<!-- Contribution Snake (OPTIONAL) -->
-<!--
-![Snake animation](https://raw.githubusercontent.com/AjayPieris/AjayPieris/output/github-contribution-grid-snake.svg)
-Generate via an actions workflow if desired.
--->
-
----
-
 ### 🤝 Collaboration
 I enjoy working on:
 - Impactful civic / environmental platforms
