@@ -6,13 +6,13 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypieris&label=Profile%20views&color=0e75b6&style=flat" alt="ajay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaypieris" alt="ajay" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AjayPieris&theme=light" alt="ajay" /></a> </p>
 
 - 🔭 I’m currently working on [CeyloneConnect - MiniProject]
 
 - 🌱 I’m currently learning **python, java, powerbi etc...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hasmoonn?tab=repositories](https://github.com/ajaypieris?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ajaypieris?tab=repositories](https://github.com/ajaypieris?tab=repositories)
 
 - 💬 Ask me about **React, Python, HTML, CSS, Java, etc...**
 
