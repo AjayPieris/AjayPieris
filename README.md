@@ -43,7 +43,7 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajaypieris?tab=repositories](https://github.com/ajaypieris?tab=repositories)
 
-- 💬 Ask me about **React, Python, HTML, CSS, Java, etc...**
+- 💬 Ask me about **React, Python, HTML, CSS, Java,php etc...**
 
 - 📫 How to reach me **ajayperies10@gmail.com**
 
