@@ -149,10 +149,11 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
 <!-- GitHub Stats (kept your original cards) -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypieris&layout=compact&theme=default" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypieris&layout=compact&theme=default&langs_count=10" 
     alt="Top Languages" 
   />
 </p>
+
 
 
 <p align="center">
