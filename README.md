@@ -140,26 +140,40 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=2&section=footer" alt="divider" />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats (Workable Version) -->
+<!-- If images fail to load due to rate limits, self-host them (see comments below). -->
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypieris&layout=compact&theme=default&langs_count=10&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <!-- Top Languages -->
+  <a href="https://github.com/AjayPieris">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&langs_count=10&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=7200&theme=default" 
+      alt="Top Languages" 
+      height="160"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ajaypieris&show_icons=true&locale=en&count_private=true&hide_border=true" 
-    alt="GitHub Stats" height="170"
-  />
+  <!-- Core Stats -->
+  <a href="https://github.com/AjayPieris">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=7200&theme=default" 
+      alt="GitHub Stats" 
+      height="160"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypieris&hide_border=true" 
-    alt="GitHub Streak" height="190"
-  />
+  <!-- Streak Stats -->
+  <a href="https://github.com/AjayPieris">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=AjayPieris&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" 
+      alt="GitHub Streak" 
+      height="190"
+    />
+  </a>
 </p>
 
 <!-- Footer wave -->
