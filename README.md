@@ -144,7 +144,6 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
 <!-- If images fail to load due to rate limits, self-host them (see comments below). -->
 
 <p align="center">
-  <!-- Top Languages -->
   <a href="https://github.com/AjayPieris">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayPieris&layout=compact&langs_count=10&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=7200&theme=default" 
@@ -152,13 +151,10 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
       height="160"
     />
   </a>
-</p>
-
-<p align="center">
-  <!-- Core Stats -->
+  
   <a href="https://github.com/AjayPieris">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=7200&theme=default" 
+      src="https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=7200&theme=default" 
       alt="GitHub Stats" 
       height="160"
     />
@@ -166,12 +162,11 @@ I'm a Software Engineering student at Sabaragamuwa University of Sri Lanka, pass
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <a href="https://github.com/AjayPieris">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=AjayPieris&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" 
+      src="https://github-readme-streak-stats.demolab.com?user=AjayPieris&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=default" 
       alt="GitHub Streak" 
-      height="190"
+      height="160"
     />
   </a>
 </p>
