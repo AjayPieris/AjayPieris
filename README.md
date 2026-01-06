@@ -131,4 +131,4 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=THΛNK_YoU!&height=100&section=footer"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
