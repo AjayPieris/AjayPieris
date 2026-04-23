@@ -92,29 +92,6 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
   <img src="https://raw.githubusercontent.com/AjayPieris/AjayPieris/output/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Gitanimals (Requires setup at gitanimals.org) -->
-<div align="center">
-  <h2>🐾 My Gitanimals</h2>
-</div>
-<table align="center">
-  <tr>
-    <td align="center" width="65%">
-      <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/lines/AjayPieris?pet-id=1" width="100%" alt="Gitanimals Line Mode" />
-      </a>
-    </td>
-    <td align="center" width="35%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Random Quote" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/AjayPieris" width="80%" alt="Gitanimals Farm Mode" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <!-- Footer Badges -->
 <div align="center">
