@@ -16,8 +16,10 @@
 A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
 </div>
 
-<!-- Typing Animation with your details -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+@+SUSL;Full-stack+Dev+%7C+UI%2FUX+%7C+Data+Analysis;Building+impactful+solutions...;Learning+Python,+Java,+Power+BI;Have+a+Great+Day...;Thank+you!)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+MERN+%2B+Next.js;%F0%9F%8E%93+SE+Undergraduate+%40+SUSL;%F0%9F%9A%80+11%2B+Production-Ready+Projects+Shipped;%E2%98%81%EF%B8%8F+AWS+%7C+Docker+%7C+.NET+%7C+Spring+Boot;%F0%9F%93%9D+Technical+Writer+on+Medium;%E2%9C%85+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</p>
 
 <!-- Social Links -->
 <p align="center">
