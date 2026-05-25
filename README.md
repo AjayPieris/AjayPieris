@@ -256,7 +256,7 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AjayPieris&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" />
 </div>
 
