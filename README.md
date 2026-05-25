@@ -16,6 +16,9 @@
 A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
 </div>
 
+<!-- Typing Animation with your details -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+@+SUSL;Full-stack+Dev+%7C+UI%2FUX+%7C+Data+Analysis;Building+impactful+solutions...;Learning+Python,+Java,+Power+BI;Have+a+Great+Day...;Thank+you!)
+
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ajaypieris/" target="_blank">
@@ -253,8 +256,8 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AjayPieris&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" />
+  <img width="49%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AjayPieris&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" />
 </div>
 
 <br/>
