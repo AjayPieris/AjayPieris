@@ -43,19 +43,64 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
 <!-- About Me -->
 <h2 align="center">🧑‍💻 About Me</h2>
 
-<div align="center">
-
-```txt
-🎓  Software Engineering Undergraduate @ Sabaragamuwa University of Sri Lanka (SUSL)
-💼  Full-Stack Developer  ·  UI/UX Enthusiast  ·  Data Analysis Explorer
-🔭  Currently building  →  CeyloneConnect & SmartClinic
-🌱  Deep-diving into  →  Python · Java · .NET · Spring Boot · AWS · Power BI
-📝  I write articles on  →  Medium (@ajayperies10)
-📫  Reach me at  →  ajayperies10@gmail.com
-⚡  Fun fact  →  I turn caffeine into clean code ☕
-```
-
-</div>
+<table align="center" border="0">
+  <tr>
+    <td width="300" align="center" valign="top">
+      <br/>
+      <img src="https://res.cloudinary.com/dayy8te6n/image/upload/w_300,h_300,c_fill,g_face,r_max,q_auto,f_auto/v1779560160/portfolio/profile.png" width="180" />
+      <br/><br/>
+      <b>Ajay Pieris</b>
+      <br/>
+      <sub>Software Engineering Undergraduate</sub>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/ajaypieris/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      <a href="https://medium.com/@ajayperies10"><img src="https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white" /></a>
+      <a href="https://github.com/AjayPieris"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td valign="top">
+      <br/>
+      <table>
+        <tr>
+          <td>🎓</td>
+          <td><b>University</b></td>
+          <td>Sabaragamuwa University of Sri Lanka (SUSL)</td>
+        </tr>
+        <tr>
+          <td>💼</td>
+          <td><b>Role</b></td>
+          <td>Full-Stack Developer (MERN Stack & Next.js)</td>
+        </tr>
+        <tr>
+          <td>🔭</td>
+          <td><b>Current</b></td>
+          <td><b>Saree Bazar</b> - community project</td>
+        </tr>
+        <tr>
+          <td>🌱</td>
+          <td><b>Learning</b></td>
+          <td>JavaScript · .NET · Spring Boot · Laravel · FastAPI · AWS · Docker</td>
+        </tr>
+        <tr>
+          <td>📝</td>
+          <td><b>Writing</b></td>
+          <td><a href="https://medium.com/@ajayperies10">Technical articles on Medium</a></td>
+        </tr>
+        <tr>
+          <td>🌍</td>
+          <td><b>Portfolio</b></td>
+          <td><a href="https://ajaypieris.me">ajaypieris.me</a></td>
+        </tr>
+        <tr>
+          <td>⚡</td>
+          <td><b>Fun Fact</b></td>
+          <td>I fix bugs in my sleep… literally, I dream in code 😴💻</td>
+        </tr>
+      </table>
+      <br/>
+      <img src="https://img.shields.io/badge/Open_to-Internships_&_Collaborations-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -256,7 +301,7 @@ A J A Y <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
+  <img width="49%" src="https://github-readme-stats.zohan.tech/api?username=AjayPieris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=ffffff" />
   <img width="49%" src="https://streak-stats.demolab.com?user=AjayPieris&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" />
 </div>
 
